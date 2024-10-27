@@ -1,3 +1,9 @@
 {
-  "pensamentos": []
+  "pensamentos": [
+    {
+      "id": "f0c5",
+      "conteudo": "Pensamento 1",
+      "autoria": "Gabriel"
+    }
+  ]
 }
