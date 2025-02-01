@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/c2c602af-77f9-471a-95ec-0066bf30ecf3)
 
-## Descrição
+## 📑 Descrição
 
 É um site organizador de pensamentos e frases que permite cadastrar, listar, editar e deletar pensamentos, incluindo informações como conteúdo e autoria.
 
