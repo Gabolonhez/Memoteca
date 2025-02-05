@@ -17,7 +17,7 @@
 
 - `JavaScript`
 - `Fetch API`
-- `Axios`:
+- `Axios`
 - `Node.js`
 - `JSON Server`
 - `CSS`
